@@ -24,7 +24,7 @@
   "dependencies": {
     "midas": "^1.2.1",
     "opener": "^1.4.1",
-    "postcss": "^5.0.19",
+    "postcss": "^7.0.11",
     "yargs": "^4.7.1"
   },
   "devDependencies": {
